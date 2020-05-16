@@ -22,3 +22,8 @@ when the mouse hovers over any button, the button's color changes to a different
 7. If two shapes are overlapped, the recently drawn must reside on the
 top
 
+## Screenshots
+
+ ![image info](./Screenshots/2.png)
+
+ ![image info](./Screenshots/1.png)
